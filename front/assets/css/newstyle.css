@@ -1,0 +1,155 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "Noto Sans Bengali", sans-serif bold;
+    src: url(../ruposhi-bangla/RuposhiBanglaUnicodeBold.ttf);
+}
+
+@font-face {
+    font-family: "Noto Sans Bengali", sans-serif;
+    src: url(../ruposhi-bangla/RuposhiBanglaUnicode.ttf);
+}
+.discount_course {
+    font-family: "Noto Sans Bengali", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+    color: #8c0000;
+    border: 1px solid #ff7e31;
+    border-radius: 5px;
+    padding: 6px 5px;
+    margin-top: -12px;
+    transition: all linear 0.3s;
+}
+.discount_course:hover {
+    color: #fff;
+    background-color: #ff7e31;
+}
+.discount_modal {
+    top: 60%;
+    transform: translateY(-50%);
+}
+.discount_title {
+    padding-bottom: 30px;
+}
+.discount_title h4 {
+    font-family: "Hind Siliguri";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.2px;
+}
+.discount_wrapper {
+    max-width: 945px;
+}
+.discount_inner_wrapper {
+    padding: 75px 95px;
+}
+.discount_title p {
+    font-family: "Ruposhi Bangla Unicode";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    letter-spacing: 0.002em;
+    color: #605f62;
+}
+.discount_send {
+    padding: 10px 40px;
+}
+.cross-modal {
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+
+.discount_success {
+    text-align: center;
+}
+.success_discount {
+    max-width: 558px;
+    margin: auto;
+    background-color: #fff;
+}
+.success_discount h2 {
+    font-family: "Hind Siliguri";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 55px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #cf0000;
+    padding-bottom: 10px;
+    padding-top: 40px;
+}
+
+.discount_success p {
+    font-family: "Noto Sans Bengali", sans-serif !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 22px !important;
+    line-height: 32px !important;
+    text-align: center !important;
+    letter-spacing: 0.004em !important;
+    color: #605f62 !important;
+    padding-bottom: 25px !important;
+}
+.discount_success a {
+    font-family: "Hind Siliguri";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #ff7e31;
+    padding-bottom: 70px;
+}
+.nav-link {
+    font-family: "Hind Siliguri";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+    color: #605f62;
+}
+.seminar_desp .nav-link.active {
+    background-color: #cf0000 !important;
+    border-radius: 10px;
+}
+.course_single_item {
+    margin: 0 8px;
+}
+.popular_slide {
+    margin: 0 !important;
+}
+
+.course_items_display a {
+    display: block;
+}
+.course_discount_anchor a {
+    display: block;
+}
+
+.course_single_item {
+    margin: 0 8px !important;
+}
+.popular_slide {
+    margin: 0 !important;
+}
+.course_category_slider a {
+    display: block;
+}
+.course_discount_slide_margin {
+    margin: 0 !important;
+}
+.services{
+    background-color: #EFEFF9!important;
+}
+.service-heading p{
+    text-align: justify;
+}
+
+
